@@ -13,10 +13,11 @@ This Alumni Association Platform will be a comprehensive solution designed to en
 
 
 ## Proposed Solution / Architecture Diagram
+![psp](https://github.com/user-attachments/assets/725aefec-d40d-44eb-9f1c-c2df7dcd93c3)
 
 
 ## Use Cases
-
+![use case](https://github.com/user-attachments/assets/49ccb993-f047-4b53-8823-6c6f5e2252df)
 
 ## Technology Stack
 
@@ -55,10 +56,12 @@ Sentry for error tracking and performance monitoring.
 
 ## Dependencies
 External Services:
-
-     Payment Gateway: Integration with Stripe or PayPal for handling donations securely.
-     External Job Boards: Integration with platforms like LinkedIn, Indeed, or Glassdoor for job postings.
-     Third-Party Integrations:
+Payment Gateway: Integration with Stripe or PayPal for handling donations securely.
+External Job Boards: Integration with platforms like LinkedIn, Indeed, or Glassdoor for job postings.
+Budeget:
+          70000-80000 rupees.
+          
+Third-Party Integrations:
 
 Email Services: Integration with SendGrid or Mailgun for email notifications.
 Push Notifications: Integration with Firebase for mobile push notifications.
